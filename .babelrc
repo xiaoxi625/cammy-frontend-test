@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    [
+      "transform-es2015-modules-commonjs",
+      {
+        "allowTopLevelThis": true
+      }
+    ],
+    "transform-class-properties",
+    "transform-object-rest-spread"
+  ],
+  "sourceMaps": true,
+  "retainLines": true,
+  "presets": ["env", "react"]
+}

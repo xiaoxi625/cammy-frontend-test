@@ -1,0 +1,25 @@
+.titleColor {
+    color: #14a8ca;
+}
+.titleSize {
+    font-size: 45px;
+    font-weight: bold;
+}
+.allBlock {
+    padding: 25px;
+    margin: 25px;
+}
+.sendButton {
+    background-color: #14a8ca;
+    width: 70%;
+    color: white;
+}
+.buttonBlock {
+    padding: 10px;
+}
+.buttonPosition {
+    text-align: center;
+}
+.hideText {
+    display: none;
+}
