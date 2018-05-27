@@ -4,7 +4,8 @@
 ##### I have sent invitation email to abc@cammy.com, but it doesn't have auth yet.
 ##### So I also created another Gmail account and gave the auth for that account.
 ##### Test email is chase.cammy.test@gmail.com, If you need login password, please send email to xiaoxi625@hotmail.com
-
+# Default email is not abc@cammy.com because mailgun account is testing one, so there is no auth from abc@cammy.com
+# Two auth gmail account are  chase.cammy.test@gmail.com and bphan625@gmail.com, only these two email address is working properly.
 
 ##### node version 8.9.x and make sure no process on port 8080, and also start API first
 0. npm install
