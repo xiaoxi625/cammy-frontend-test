@@ -17,7 +17,7 @@ const contactsReducer = (state = {}, action) => {
     case 'SEND_MESSAGE_FAILED':
       return action.payload;
     default:
-      return {};
+      return state;
   }
 };
 
